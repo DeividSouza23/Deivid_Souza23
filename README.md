@@ -6,3 +6,6 @@
 
 - 🧑🏻‍🎓 passar em todas as materias ✔️.
 
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+          
