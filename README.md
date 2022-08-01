@@ -1,5 +1,5 @@
 # DEIVID 🎖️
-- Estudo no INSTITUTO FEDERAL DE AAGOAS.
+- Estudo no INSTITUTO FEDERAL DE ALAGOAS.
 - 🌱 materia: engenharia de software.
 
 ## OBJETIIVO 🎯
